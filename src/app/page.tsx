@@ -1,9 +1,9 @@
-import Nav from "@/Components/Navbar/Nav";
+import Banner from "@/Components/Home/Banner";
 
 export default function Home() {
   return (
     <main>
-      <Nav />
+      <Banner />
     </main>
   );
 }
